@@ -1,22 +1,23 @@
-## 👋 Hi, I'm Belarmino Neto  
+## 👋 Hi, I'm Belarmino Neto
 
 🎓 I’m a **Data Science for Business** student at **UFPB (Federal University of Paraíba)**.  
 💡 Passionate about transforming data into insights that drive better decisions.  
 🚀 Currently learning **Python**, **Power BI**, and **machine learning fundamentals**.  
 📊 Interested in **data analytics, business intelligence, and process optimization**.  
-🤝 Open to collaborating on **data-driven projects and analytics initiatives**.  
+🤝 Open to collaborating on **data-driven projects and analytics initiatives**.
 
 ---
 
-🧠 Tech Stack
+### 🧠 Tech Stack
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60" alt="Pandas" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60" alt="NumPy" /> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60" height="60" alt="Power BI" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL" /> 
-  <img src="https://raw.githubusercontent.com/itzonebr/logo-icons/main/microsoft-excel.png" width="60" height="60" alt="Excel" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60" alt="Pandas" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60" alt="NumPy" />&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60" height="60" alt="Power BI" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL" />&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="60" height="60" alt="Excel" />
 </p>
+
 ---
 
 ### 🌐 Connect with me
@@ -36,4 +37,6 @@
 
 ---
 
-⚡ *“Turning data into knowledge, and knowledge into results.”*
+<p align="center">
+  ⚡ <i>“Turning data into knowledge, and knowledge into results.”</i>
+</p>
