@@ -20,17 +20,7 @@
 
 ---
 
-📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-virid-seven-42.vercel.app/api?username=Bnetocode&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats-virid-seven-42.vercel.app/api/top-langs/?username=Bnetocode&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bnetocode&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
-</p>
 
----
 
 ### 🌐 Connect with me
 <p align="center">
