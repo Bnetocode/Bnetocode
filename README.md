@@ -22,11 +22,11 @@
 
 ### 🌐 Connect with me
 <p align="center">
-  <a href="mailto:neto10paraibano@gmail.com" target="_blank">
+  <a href="mailto:b.netodata@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="50" height="50" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/belarmino-neto-0ab23a301" target="_blank">
+  <a href="https://www.linkedin.com/in/belarmino-neto" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
